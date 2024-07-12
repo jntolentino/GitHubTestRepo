@@ -1,3 +1,6 @@
 # GitHubTestRepo
-repo used to practice basic github command
+
+
 Jaime Nicolas Tolentino
+
+kenneth is a indian scammer real hindi fake
