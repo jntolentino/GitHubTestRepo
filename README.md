@@ -1,2 +1,3 @@
 # GitHubTestRepo
-repo used to practice basic github commands
+repo used to practice basic github command
+Jaime Nicolas Tolentino
